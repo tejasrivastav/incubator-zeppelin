@@ -25,6 +25,14 @@
     "angular": false,
     "_": false,
     "jQuery": false,
-    "hljs": false
+    "hljs": false,
+    "confirm": false,
+    "alert": false,
+    "nv": false,
+    "ace": false,
+    "d3": false,
+    "BootstrapDialog": false,
+    "Handsontable": false,
+    "moment": false
   }
 }
